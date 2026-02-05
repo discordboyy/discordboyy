@@ -15,9 +15,6 @@ Engasjert og lærevillig elev innen IT og programmering, med praktisk erfaring f
 ---
 
 ## 💻 Erfaring
-
-### Rubynor – Fullstack-utvikler (praksis)
-**10/2025 – 12/2025**  
 - Utviklet en fullstendig webapplikasjon for ønskelister  
 - Arbeidet med både backend og frontend  
 - Bygget REST API-er og autentiseringssystem  
@@ -40,7 +37,3 @@ Engasjert og lærevillig elev innen IT og programmering, med praktisk erfaring f
 - Ukrainsk – morsmål  
 - Russisk – flytende  
 
----
-
-## 📫 Kontakt
-- Email: mertygrul.28@gmail.com
