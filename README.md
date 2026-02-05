@@ -1,39 +1,23 @@
-# 👋 Hei, jeg er Makar Hrydkovets
+<h2 align="center">Tech Stack</h2>
 
-Engasjert og lærevillig elev innen IT og programmering, med praktisk erfaring fra fullstack-utvikling. Jeg elsker backend, databaser og moderne webteknologier. Trives både med selvstendig arbeid og samarbeid i team.
-
----
-
-## 🔧 Teknologier og ferdigheter
-
-- **Programmering:** JavaScript, Node.js, HTML, CSS, grunnleggende Python  
-- **Backend:** REST API-er, autentisering og innlogging  
-- **Databaser:** MongoDB, MySQL, SQLite, PostgreSQL  
-- **Verktøy:** Git, GitHub, Render  
-- **IT-ferdigheter:** Avansert bruker av Mac og PC  
-
----
-
-## 💻 Erfaring
-- Utviklet en fullstendig webapplikasjon for ønskelister  
-- Arbeidet med både backend og frontend  
-- Bygget REST API-er og autentiseringssystem  
-- Brukte Node.js, JavaScript, HTML, CSS  
-- Arbeidet med databaser: MongoDB, MySQL, SQLite, PostgreSQL  
-- Versjonskontroll med Git og GitHub, deploy via Render  
-
----
-
-## 🌱 Læring og interesser
-- Moderne webteknologier  
-- Backend-utvikling  
-- Databaser og systemdesign  
-
----
-
-## 🌐 Språk
-- Norsk – godt  
-- Engelsk – flytende  
-- Ukrainsk – morsmål  
-- Russisk – flytende  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26"/>
+  <br>
+  <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6"/>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=339933"/>
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb&logoColor=47A248"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql&logoColor=4479A1"/>
+  <br>
+  <img src="https://img.shields.io/badge/SQLite-333?style=flat&logo=sqlite&logoColor=003B57"/>
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql&logoColor=4169E1"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=F05032"/>
+  <br>
+  <img src="https://img.shields.io/badge/Render-333?style=flat&logo=render&logoColor=00C7B7"/>
+</p>
