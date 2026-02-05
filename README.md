@@ -7,7 +7,17 @@
   <br>
   <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <br>
+  <img src="https://img.shields.io/badge/React-333?style=flat&logo=react&logoColor=61DAFB"/>
+  <br>
+  <img src="https://img.shields.io/badge/Vite-333?style=flat&logo=vite&logoColor=646CFF"/>
+  <br>
   <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=339933"/>
+  <br>
+  <img src="https://img.shields.io/badge/Express-333?style=flat&logo=express&logoColor=ffffff"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python&logoColor=3776AB"/>
+  <br>
+  <img src="https://img.shields.io/badge/PHP-333?style=flat&logo=php&logoColor=777BB4"/>
   <br>
   <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb&logoColor=47A248"/>
   <br>
